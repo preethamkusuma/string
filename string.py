@@ -33,18 +33,22 @@ print(type(a))
 a = str(True)
 print(a)
 print(type(a))
+
 #b00lean conversion
 a = bool("abc")
 print(a)
 print(type(a))
+
 #hexa conversion
 a = hex("abc")
 print(a)
 print(type(a))
+
 #octal conversion
 a = oct("abc")
 print(a)
 print(type(a))
+
 #binary conversion
 a = bin("abc")
 print(a)
